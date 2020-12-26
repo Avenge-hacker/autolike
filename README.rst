@@ -53,7 +53,7 @@ For development purpose we recommend to use a virtual environment.
 Contribute
 ~~~~~~~~~~
 
-Create Github Pull Request https://github.com/Avenge-hacker/autolike/pulls
+Create Github Pull Request https://github.com/Avenge-hacker/autolike
 
 If you have suggestion use GitHub issue system or send a message in Facebook https://www.facebook.com/ars.shovon.
 
